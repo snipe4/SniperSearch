@@ -1,0 +1,32 @@
+requests
+telethon
+ujson
+python-socks
+apt-get install ruby python
+apt-get install ruby
+apt-get install ruby-full
+apt-get install python
+apt update
+apt-get install python
+apt-get install
+apt-get install python
+apt-get install ruby
+apt-get python3 -m pip install telethon ujson
+python3 -m pip install telethon ujson
+apt-get install telethon ujson
+apt-get install npm
+pip3 install telethon
+gem install --local index.rb 
+gem install --local http
+gem install --local http 3.0.0
+gem install --local http==3.0.0
+gem install --local "http=3.0.0"
+apt-get install sqlite3
+gem install http
+sudo gem install http
+ruby main.rb 
+gem install --local telegram/bot
+gem 'telegram-bot'
+bundle
+sudo apt install ruby-bundler
+
